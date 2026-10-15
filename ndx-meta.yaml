@@ -1,5 +1,5 @@
 name: ndx-microscopy
-version: 0.2.1
+version: 0.4.0
 src: https://github.com/catalystneuro/ndx-microscopy
 pip: https://pypi.org/project/ndx-microscopy/
 license: MIT
